@@ -2,12 +2,10 @@
 permalink: /
 title: "Welcome!"
 author_profile: true
-header:
-  overlay_image: "https://yibochen23333.vercel.app/images/banner.png"
-  overlay_filter: 0.5
 redirect_from: 
   - /about/
   - /about.html
+<img src="/images/banner.png" style="width: 100%; border-radius: 8px; margin-bottom: 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 ---
 
 I am a PhD student in Mathematics at the University of Jyväskylä and the University of Padua (Double degree based on a "Cotutelle" agreement). 
