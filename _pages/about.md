@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in Mathematics at the University of Jyväskylä and the University of Padua (Double degree based on a "Cotutelle" agreement). 
+Welcome! 
 
-My supervisors are Prof. Katrin Fässler and Prof. Roberto Monti.
+I am a PhD student in Mathematics at the University of Jyväskylä and the University of Padua (Double degree based on a "Cotutelle" agreement). 
+
+I am working in the [Geometric measure theory and harmonic analysis](https://www.jyu.fi/en/research-groups/geometric-measure-theory-and-harmonic-analysis) research group.
+
+My supervisors are Prof. [Katrin Fässler](https://kfaessler.wixsite.com/math) and Prof. [Roberto Monti](https://www.math.unipd.it/~monti/).
 
 ### Research Interests
-I am broadly interested in **Geometric measure theory on Heisenberg groups**, including:
+I am interested in **Geometric Analysis**, including:
 * Uniform/Quantitative rectifiability in Heisenberg groups.
 * Minimal surfaces/Plateau problems in Heisenberg groups.
 * Currents in Heisenberg groups.
