@@ -9,56 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* **PhD in Mathematics**, University of Jyväskylä & University of Padua, Sep. 2025 - Present
+  * Research Topic: Surfaces and Slices in Heisenberg Groups
+  * Supervisors: Katrin Fässler & Roberto Monti
+* **Master's degree in Mathematics**, University of Padua, Oct. 2022 - Feb. 2025
+  * Final grade: 110/110 (Course grade: 28.987/30)
+  * Thesis: *Plateau's Problem for Integral Currents* (Supervisor: Roberto Monti)
+  * Link: https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf
+* **Master's Program in Mathematics and Statistics (Erasmus exchange)**, University of Helsinki, Aug. 2023 - May 2024
+  * Grade: 4.55/5
+* **Bachelor of Science in Information and Computing Science**, Hunan Agricultural University, Sep. 2018 - Jun. 2022
+  * Grade: 84.58/100
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Academic Experience
+* **The 35th Jyväskylä Summer School**, Jyväskylä, Finland, Aug. 2026
+* **Summer School on Differential Geometry**, Xiamen University, China, Jun. 2026
+* **14th School on Analysis and Geometry in Metric Spaces**, Trento, Italy, Jun. 2026
+* **Westlake Winter School in GMT**, Hangzhou, China, Feb. 2026
+* **Summer School in Geometry**, USTC, Hefei, China, Jul. 2024 & 2025
+* **Student Seminar** (Talk: Short-Time Existence and Uniqueness of the Ricci Flow), Padua, Italy, Dec. 2024
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills & Interests
+* **Computer Skills:** Matlab, Latex, C++
+* **Languages:** Chinese (Native), English (B2)
+* **Hobbies:** Cycling
