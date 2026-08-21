@@ -19,7 +19,7 @@ redirect_from:
   * Link: [https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf](https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf)
 * **Master's Erasmus exchange**, University of Helsinki, Aug. 2023 - May 2024
 * **Bachelor of Science in Information and Computing Science**, Hunan Agricultural University (湖南农业大学), Sep. 2018 - Jun. 2022
-* Thesis's Supervisor: Jiankai Xu(许建开)
+  * Thesis's Supervisor: Jiankai Xu(许建开)
 
 ## Academic Experience
 * **[The 35th Jyväskylä Summer School](https://warwick.ac.uk/fac/sci/maths/people/staff/filip_rindler/jyu2026/)**, Jyväskylä, Finland, Aug. 2026
