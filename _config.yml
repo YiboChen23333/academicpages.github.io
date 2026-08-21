@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yibo Chen"
 title_separator          : "-"
-name                     : &name "Yibo Chen"
+name                     : &name "Yibo Chen_Math"
 description              : &description "Personal academic website of Yibo Chen, PhD student in Mathematics at the University of Jyväskylä and the University of Padua."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yibochen23333.vercel.app # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
