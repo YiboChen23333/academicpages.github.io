@@ -13,7 +13,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in Mathematics at the University of Jyväskylä and the University of Padua (Double degree based on a "Cotutelle" agreement). 
+I am a PhD student in Mathematics at the University of Jyväskylä and the University of Padua (Cotutelle). 
 
 I am working in the [Geometric measure theory and harmonic analysis](https://www.jyu.fi/en/research-groups/geometric-measure-theory-and-harmonic-analysis) research group.
 
