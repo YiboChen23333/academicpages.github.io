@@ -13,7 +13,7 @@ title                    : "Yibo Chen"
 title_separator          : "-"
 name                     : &name "Yibo Chen_Math"
 description              : &description "Personal academic website of Yibo Chen, PhD student in Mathematics at the University of Jyväskylä and the University of Padua."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yibochen23333.vercel.app # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://https://yibochenmath233.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -27,7 +27,7 @@ author:
   bio              : "PhD Student in Mathematics"
   location         : "Jyväskylä, Finland & Padua, Italy"
   employer         : "Univ. of Jyväskylä & Univ. of Padua"
-  uri              : "https://yibochen23333.vercel.app" 
+  uri              : "https://https://yibochenmath233.github.io/" 
   email            : "yibo.y.chen@jyu.fi"
 
   # Academic websites
