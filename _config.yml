@@ -26,7 +26,7 @@ author:
   avatar           : "/images/profile.png" # 稍后教你怎么换头像
   bio              : "PhD Student in Mathematics at Univ. of Jyväskylä & Univ. of Padua"
   location         : "Jyväskylä, Finland & Padua, Italy"
-  employer         : "University of Jyväskylä & University of Padua"
+  employer         : "Univ. of Jyväskylä & Univ. of Padua"
   uri              : "https://yibochen23333.vercel.app" 
   email            : "yibo.y.chen@jyu.fi"
 
@@ -49,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/yibo-chen-851207aa/"
+  linkedin         : "yibo-chen-851207aa/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -78,7 +78,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/chen-yi-bo-49"
+  zhihu            : "chen-yi-bo-49"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
