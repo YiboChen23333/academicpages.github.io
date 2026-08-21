@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Chen Yibo (陈奕伯)"
-  avatar           : "/images/profile.png" # 稍后教你怎么换头像
+  avatar           : "/images/YiboChen.jpg" # 稍后教你怎么换头像
   bio              : "PhD Student in Mathematics at Univ. of Jyväskylä & Univ. of Padua"
   location         : "Jyväskylä, Finland & Padua, Italy"
   employer         : "Univ. of Jyväskylä & Univ. of Padua"
