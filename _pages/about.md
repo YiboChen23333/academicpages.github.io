@@ -3,7 +3,7 @@ permalink: /
 title: ""
 author_profile: true
 header:
-  overlay_image: "/images/banner.png"
+  overlay_image: "https://yibochen23333.vercel.app/images/banner.png"
   overlay_filter: 0.05
 redirect_from: 
   - /about/
@@ -11,10 +11,10 @@ redirect_from:
 ---
 
 <style>
-  /* 撑开顶部横幅高度，确保小猫、面条和背景字画完整显示 */
+  /* 撑开顶部横幅高度，确保小猫和美食完整显示 */
   .page__hero--overlay {
-    min-height: 380px !important;
-    background-position: center bottom !important;
+    min-height: 400px !important;
+    background-position: center 70% !important;
     background-size: cover !important;
   }
 </style>
