@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome! 
 
 I am a PhD student in Mathematics at the University of Jyväskylä and the University of Padua (Double degree based on a "Cotutelle" agreement). 
 
@@ -15,6 +13,7 @@ I am working in the [Geometric measure theory and harmonic analysis](https://www
 
 My supervisors are Prof. [Katrin Fässler](https://kfaessler.wixsite.com/math) and Prof. [Roberto Monti](https://www.math.unipd.it/~monti/).
 
+You can find my email on my JYU's official website: [https://www.jyu.fi/en/people/yibo-chen](https://www.jyu.fi/en/people/yibo-chen).
 ### Research Interests
 I am interested in **Geometric Analysis**, including:
 * Uniform/Quantitative rectifiability in Heisenberg groups.
