@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yibo Chen"
+title                    : "Yibo Chen/陈奕伯"
 title_separator          : "-"
 name                     : &name "Yibo Chen_Math"
 description              : &description "Personal academic website of Yibo Chen, PhD student in Mathematics at the University of Jyväskylä and the University of Padua."   # Update this with a general description of your site, this is the default if not overridden by a page
