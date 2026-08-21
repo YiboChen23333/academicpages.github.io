@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: center; margin-bottom: 30px;">
+<div style="text-align: center; margin-bottom: 5px;">
   <img src="https://yibochen23333.vercel.app/images/banner.png" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
 </div>
 
