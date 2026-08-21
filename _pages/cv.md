@@ -14,13 +14,11 @@ redirect_from:
   * Research Topic: Surfaces and Slices in Heisenberg Groups
   * Supervisors: Katrin Fässler & Roberto Monti
 * **Master's degree in Mathematics**, University of Padua, Oct. 2022 - Feb. 2025
-  * Final grade: 110/110 (Course grade: 28.987/30)
+  * Final grade: 110/110 
   * Thesis: *Plateau's Problem for Integral Currents* (Supervisor: Roberto Monti)
   * Link: https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf
 * **Master's Program in Mathematics and Statistics (Erasmus exchange)**, University of Helsinki, Aug. 2023 - May 2024
-  * Grade: 4.55/5
-* **Bachelor of Science in Information and Computing Science**, Hunan Agricultural University, Sep. 2018 - Jun. 2022
-  * Grade: 84.58/100
+* **Bachelor of Science in Information and Computing Science**, Hunan Agricultural University (湖南农业大学), Sep. 2018 - Jun. 2022
 
 ## Academic Experience
 * **The 35th Jyväskylä Summer School**, Jyväskylä, Finland, Aug. 2026
