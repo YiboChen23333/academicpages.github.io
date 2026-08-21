@@ -26,20 +26,20 @@ author:
   avatar           : "/images/profile.png" # 稍后教你怎么换头像
   bio              : "PhD Student in Mathematics at Univ. of Jyväskylä & Univ. of Padua"
   location         : "Jyväskylä, Finland & Padua, Italy"
-  employer         : "University of Jyväskylä"
+  employer         : "University of Jyväskylä & University of Padua"
   uri              : "https://yibochen23333.vercel.app" 
   email            : "yibo.y.chen@jyu.fi"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-4647-9857"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yibo-chen-851207aa/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -78,7 +78,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "https://www.zhihu.com/people/chen-yi-bo-49"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
