@@ -2,6 +2,9 @@
 permalink: /
 title: "Welcome!"
 author_profile: true
+header:
+  overlay_image: "https://yibochen23333.vercel.app/images/HaJiMi.png"
+  overlay_filter: 0.5
 redirect_from: 
   - /about/
   - /about.html
