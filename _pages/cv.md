@@ -16,7 +16,7 @@ redirect_from:
 * **Master's degree in Mathematics**, University of Padua, Oct. 2022 - Feb. 2025
   * Final grade: 110/110 
   * Thesis: *Plateau's Problem for Integral Currents* (Supervisor: Roberto Monti)
-  * Link: https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf
+  * Link: [https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf](https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf)
 * **Master's Program in Mathematics and Statistics (Erasmus exchange)**, University of Helsinki, Aug. 2023 - May 2024
 * **Bachelor of Science in Information and Computing Science**, Hunan Agricultural University (湖南农业大学), Sep. 2018 - Jun. 2022
 
