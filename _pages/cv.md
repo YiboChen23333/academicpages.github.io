@@ -13,12 +13,12 @@ redirect_from:
 * **PhD in Mathematics**, University of Jyväskylä & University of Padua <span style="float: right;">Sep. 2025 - Present</span>
   * Research Topic: Surfaces and Slices in Heisenberg Groups
   * Supervisors: [Katrin Fässler](https://kfaessler.wixsite.com/math) & [Roberto Monti](https://www.math.unipd.it/~monti/)
-* **Master's degree in Mathematics**, University of Padua / Università degli Studi di Padova <span style="float: right;"> Oct. 2022 - Feb. 2025</span>
+* **Msc in Mathematics**, University of Padua(Università degli Studi di Padova) <span style="float: right;"> Oct. 2022 - Feb. 2025</span>
   * Final grade: 110/110 
   * Thesis: *Plateau's Problem for Integral Currents* (Supervisor: [Roberto Monti](https://www.math.unipd.it/~monti/))
   * Link: [https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf](https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf)
 * **Master's Erasmus exchange**, University of Helsinki <span style="float: right;">Aug. 2023 - May 2024</span> 
-* **Bachelor of Science in Information and Computing Science**, Hunan Agricultural University (湖南农业大学) <span style="float: right;">Sep. 2018 - Jun. 2022</span> 
+* **Bsc in Information and Computing Science**, Hunan Agricultural University(湖南农业大学) <span style="float: right;">Sep. 2018 - Jun. 2022</span> 
   * Supervisor: Jiankai Xu(许建开)
 
 ## Academic Experience
