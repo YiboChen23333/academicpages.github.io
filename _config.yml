@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   name             : "Chen Yibo (陈奕伯)"
   avatar           : "https://yibochen23333.vercel.app/images/YiboChen.jpg" # 稍后教你怎么换头像
-  bio              : "PhD Student in Mathematics at Univ. of Jyväskylä & Univ. of Padua"
+  bio              : "PhD Student in Mathematics"
   location         : "Jyväskylä, Finland & Padua, Italy"
   employer         : "Univ. of Jyväskylä & Univ. of Padua"
   uri              : "https://yibochen23333.vercel.app" 
